@@ -16,3 +16,16 @@ Three other teams I would like to watch play
 
 
 [Link to About Markdown File](AboutMe.md)
+
+----
+## Best countries to vist
+In the below table Name of the country is in first column. Second column describes  the reason to visit the country. Third column describes how many days we can spent in that country.
+
+|Country|Travel Reason|Days|
+|-------|-------------|----|
+|India|Architecture and piligrimage centre|10|
+|Australia|Beaches and hillStations|8|
+|Switzerland|Nature|7|
+|UAE|Burj kalifa and malls|7|
+
+
