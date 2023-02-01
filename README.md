@@ -34,4 +34,17 @@ In the below table Name of the country is in first column. Second column describ
 
 >Gentlemen, you can't fight in here. This is the war room. — *President Merkin Muffley (Peter Sellers), Dr. Strangelove*
 
+---------
+
+# Code fencing
+> Add a Number to Two Variables At Once
+
+for more click here <https://stackoverflow.com/questions/73341367/how-to-add-a-number-to-multiple-variables-at-once>
+
+```
+var foo, bar;
+foo = bar = 10;
+
+```
+for more click here <https://css-tricks.com/snippets/javascript/add-number-two-variables/>
 
